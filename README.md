@@ -1,23 +1,23 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+Pablo+Palma's+GitHub&center=true&size=30">
+        <img src="https://readme-typing-svg.herokuapp.com?lines=WELCOME+to&center=true&size=30">
     </a>
+</h1>
+<h1 align="center">
+    Pablo Palma's GitHub
 </h1>
 
 
 passionate about cybersecurity and information technology.
 
-```
-~ Dejando una huella digital de 65312 byte(s) en 693 allocation(s) ~
-```
 
 ## About me:
-- 🎓 Bootcamp Cybersecurity 42 Madrid [42](https://www.42.fr/en/).
+- 🔒 Cybersecurity 42 Madrid [42](https://www.42.fr/en/).
 - 💻 C y Python son mis lenguajes principales.
-- 🌿 Siempre dispuesto a colaborar en proyectos innovadores.
-- 📬 Contáctame en [me@pablopalmappr@gmail.com](mailto:pablopalmappr@gmail.com).
+- ✉️ en [pablopalmappr@gmail.com](mailto:pablopalmappr@gmail.com).
 - 🌿 Fuera del mundo de la programación, disfruto de la naturaleza, el arte y deportes de riesgo.
+- 💡 dispuesto a colaborar en proyectos innovadores.
 
 ## Skills:
 
@@ -31,12 +31,12 @@ passionate about cybersecurity and information technology.
 
 ## GitHub statistics:
 
-[![Estadísticas de GitHub de tu nombre](https://github-readme-stats.vercel.app/api?username=tu_nombre_de_usuario&theme=tokyonight&show_icons=true)](https://github.com/Pablo-Palma)
+[![Estadísticas de GitHub de tu nombre](https://github-readme-stats.vercel.app/api?username=Pablo-Palma&theme=tokyonight&show_icons=true)](https://github.com/Pablo-Palma)
 
-[![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Palma&theme=tokyonight)](https://github.com/tu_nombre_de_usuario)
+[![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Palma&theme=tokyonight)](https://github.com/Pablo-Palma)
 
 ## Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Pablo-Palma/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablopalmappr)
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablopalmappr)
