@@ -45,4 +45,3 @@ passionate about cybersecurity and information technology.
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Pablo-Palma&label=Profile%20views&color=8F00FF&style=for-the-badge" alt="Pablo-Palma" /> 
 </p>
-
