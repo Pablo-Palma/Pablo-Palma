@@ -13,7 +13,7 @@ passionate about cybersecurity and information technology.
 
 
 ## About me:
-- 🔒 Cybersecurity 42 Madrid [42](https://www.42.fr/en/).
+- 🔒 Cybersecurity Bootcamp 42 Madrid [42](https://www.42.fr/en/).
 - 💻 C y Python son mis lenguajes principales.
 - ✉️ en [pablopalmappr@gmail.com](mailto:pablopalmappr@gmail.com).
 - 🌿 Fuera del mundo de la programación, disfruto de la naturaleza, el arte y deportes de riesgo.
