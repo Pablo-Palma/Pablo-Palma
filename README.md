@@ -20,9 +20,7 @@ passionate about cybersecurity and information technology.
 - 💡 dispuesto a colaborar en proyectos innovadores.
 
 ## Skills:
-<table width="100%"> 
-  <tr>
-  <td width="50%">
+
 <p align="left">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -33,15 +31,11 @@ passionate about cybersecurity and information technology.
 
 ## GitHub statistics:
 
-[![Estadísticas de GitHub de tu nombre](https://github-readme-stats.vercel.app/api?username=Pablo-Palma&theme=tokyonight&show_icons=true)](https://github.com/Pablo-Palma)
+[![Pablo-Palma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablo-Palma&theme=tokyonight&show_icons=true)](https://github.com/Pablo-Palma)
 
-[![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Palma&theme=tokyonight)](https://github.com/Pablo-Palma)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Palma&theme=tokyonight)](https://github.com/Pablo-Palma)
 
-</p>
-  </td>
-  </tr>
-</table>
-```
+
 ## Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Pablo-Palma/)
