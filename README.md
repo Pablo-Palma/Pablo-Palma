@@ -20,7 +20,9 @@ passionate about cybersecurity and information technology.
 - 💡 dispuesto a colaborar en proyectos innovadores.
 
 ## Skills:
-
+<table width="100%"> 
+  <tr>
+  <td width="50%">
 <p align="left">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -35,8 +37,18 @@ passionate about cybersecurity and information technology.
 
 [![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Palma&theme=tokyonight)](https://github.com/Pablo-Palma)
 
+</p>
+  </td>
+  </tr>
+</table>
+```
 ## Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Pablo-Palma/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablopalmappr)
+
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=Pablo-Palma&label=Profile%20views&color=8F00FF&style=for-the-badge" alt="Pablo-Palma" /> 
+</p>
+
