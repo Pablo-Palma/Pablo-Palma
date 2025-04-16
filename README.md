@@ -15,7 +15,6 @@ passionate about cybersecurity and information technology.
 ## About me:
 - 🔒 Cybersecurity Bootcamp 42 Madrid [42](https://www.42.fr/en/).
 - 💻 C y Python son mis lenguajes principales.
-- ✉️ en [pablopalmappr@gmail.com](mailto:pablopalmappr@gmail.com).
 - 💡 dispuesto a colaborar en proyectos innovadores.
 
 ## Skills:
@@ -38,8 +37,6 @@ passionate about cybersecurity and information technology.
 ## Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablopalmarodr%C3%ADguez/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablopalmaprr/)
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Pablo-Palma&label=Profile%20views&color=8F00FF&style=for-the-badge" alt="Pablo-Palma" /> 
